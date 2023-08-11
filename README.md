@@ -1,10 +1,10 @@
 # qccs211
 All projects from CS211 from Dr. Waxman. If you are a current CS211 student, do not copy any of the code.
 
-### Project 2: Odometer
+## Project 2: Odometer
 Write a program that simulates a digital odometer. It has 6 “windows” and will output the miles as you travel, starting at 000000 and ending at 999999.
 
-### Project 3: Scoring the Race
+## Project 3: Scoring the Race
 Some number of teams are participating in a race. You are not told how many teams are participating but you do know that:
 
 - Each team has a name, which is one of the uppercase letters A-Z.
