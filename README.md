@@ -1,5 +1,5 @@
 # qccs211
-All projects from CS211 from Dr. Waxman. If you are a current CS211 student, do not copy any of the code.
+All projects from CS211 (Object Oriented Programming in C++) taught by Dr. Jerry Waxman. If you are a current CS211 student, do not copy any of the code.
 
 ## Project 2: Odometer
 Write a program that simulates a digital odometer. It has 6 “windows” and will output the miles as you travel, starting at 000000 and ending at 999999.
